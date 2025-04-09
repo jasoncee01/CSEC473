@@ -26,6 +26,9 @@ users=(
     "Toolsmith"
     "Notch"
     "Alex"
+    "root"
+    "herobrine"
+    "nitwit"
 )
 
 echo "Starting password changes..."
